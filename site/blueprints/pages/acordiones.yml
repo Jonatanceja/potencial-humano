@@ -1,0 +1,18 @@
+title: Acordion
+icon: expand
+
+fields:
+  acordiones:
+    type: structure
+    fields:
+      titulo:
+        label: Título
+        type: text
+        icon: headline
+      texto:
+        label: Texto
+        type: textarea
+        icon: edit
+  fondo:
+    type: text
+    icon: wand

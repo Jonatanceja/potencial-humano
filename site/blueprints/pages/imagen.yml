@@ -1,0 +1,10 @@
+title: Imagen
+icon: image
+
+fields: 
+  imagen: 
+    label: Imagen
+    type: files
+    icon: image
+    layout: list
+    max: 1

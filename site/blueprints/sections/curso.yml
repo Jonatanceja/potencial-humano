@@ -1,0 +1,6 @@
+type: pages
+headline: Cursos
+info: "{{ page.date.toDate('d.m.Y') }}"
+template: Curso
+empty: Sin cursos aún
+sortBy: date desc

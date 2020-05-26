@@ -1,0 +1,34 @@
+Title: Portada
+
+----
+
+Portada:
+
+- logo.png
+
+----
+
+Color: #FFEECC
+
+----
+
+Slide:
+
+- 
+  imagen:
+    - copia-de-cartel-vertical-06.jpg
+  texto: ""
+  label: slide-3
+  url: ""
+- 
+  imagen:
+    - slide-2.jpg
+  texto: ""
+  label: slide-2
+  url: ""
+- 
+  imagen:
+    - slide-3.png
+  texto: ""
+  label: slide-1
+  url: ""

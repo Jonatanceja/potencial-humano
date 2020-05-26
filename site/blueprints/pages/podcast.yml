@@ -1,0 +1,16 @@
+title: Podcasts
+icon: home
+
+sections:
+  parts:
+    headline: Parts
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - hero
+      - imagen
+      - texto
+      - acordiones
+      - pods 

@@ -1,0 +1,40 @@
+Title: Acordiones
+
+----
+
+Acordiones:
+
+- 
+  titulo: El código de la Voluntad
+  texto: |
+    Descodificando la más grande fortaleza del Potencial Humano.
+    
+    Las Técnicas de más alta eficacia para incrementar la fuerza de voluntad.
+    
+    
+    Reconocer patrones mentales para construir la fuerza de voluntad
+    Toda la ciencia detrás del autodominio
+    Los mas grandes secretos sobre la fuerza de voluntad
+    Técnicas de auto-dominio al ser más conscientes de cómo funciona la fuerza de voluntad
+    Priorización y gestión de tareas aprendiendo cómo la fuerza de voluntad es un recurso limitado
+    Wu wei: el hacer sin esfuerzo.
+    Como eliminar la prisa interna.
+- 
+  titulo: El código de la Voluntad
+  texto: |
+    Descodificando la más grande fortaleza del Potencial Humano.
+    
+    Las Técnicas de más alta eficacia para incrementar la fuerza de voluntad.
+    
+    
+    Reconocer patrones mentales para construir la fuerza de voluntad
+    Toda la ciencia detrás del autodominio
+    Los mas grandes secretos sobre la fuerza de voluntad
+    Técnicas de auto-dominio al ser más conscientes de cómo funciona la fuerza de voluntad
+    Priorización y gestión de tareas aprendiendo cómo la fuerza de voluntad es un recurso limitado
+    Wu wei: el hacer sin esfuerzo.
+    Como eliminar la prisa interna.
+
+----
+
+Fondo: #E0E21B

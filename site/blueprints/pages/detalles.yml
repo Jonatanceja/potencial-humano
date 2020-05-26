@@ -1,0 +1,36 @@
+title: Detalles
+icon: home
+
+fields:
+  etiqueta:
+    label: Etiqueta
+    type: text
+    icon: tag
+  titulo:
+    label: Título
+    type: textarea
+    icon: headline
+  fecha:
+    label: Fecha
+    type: date
+  texto: 
+    label: Texto
+    type: textarea
+  fondo:
+    label: Color de fondo
+    type: text
+    icon: wand
+  acordiones:
+    type: structure
+    fields:
+      titulo:
+        label: Título
+        type: text
+        icon: headline
+      texto:
+        label: Texto
+        type: textarea
+        icon: edit
+  boton:
+    type: text
+    title: Botón PayPal

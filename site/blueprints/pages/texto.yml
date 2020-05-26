@@ -1,0 +1,16 @@
+title: Texto
+icon: home
+
+fields:
+  titulo:
+    label: Título
+    type: text
+    icon: headline
+  texto: 
+    label: Texto
+    type: textarea
+  fondo:
+    label: Color de fondo
+    type: text
+    icon: wand
+    

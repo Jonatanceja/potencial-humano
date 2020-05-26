@@ -1,0 +1,29 @@
+Title: Detalles
+
+----
+
+Etiqueta: Etiqueta
+
+----
+
+Titulo: 
+
+----
+
+Fecha: 
+
+----
+
+Texto: 
+
+----
+
+Fondo: 
+
+----
+
+Acordiones: 
+
+----
+
+Boton: 

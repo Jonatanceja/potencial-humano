@@ -1,0 +1,28 @@
+title: Acordion
+icon: expand
+
+fields:
+  pods:
+    type: structure
+    fields:
+      imagen:
+        label: imagen
+        type: files
+        max: 1
+        icon: image
+      titulo:
+        label: Título
+        type: text
+        icon: headline
+      subtitulo:
+        label: subtitulo
+        type: text
+        icon: edit
+      url: 
+        label: Url
+        type: url
+        icon: url
+      capitulo:
+        label: capitulo
+        type: number
+        icon: list-numbers

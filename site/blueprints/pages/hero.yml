@@ -1,0 +1,32 @@
+title: Portada
+icon: image
+
+fields: 
+  portada: 
+    label: Portada
+    type: files
+    icon: image
+    layout: list
+    max: 1
+  color:
+    label: Color de fondo
+    type: text
+    icon: wand
+  slide: 
+    type: structure
+    fields:
+      imagen:
+        type: files
+        icon: image
+        layout: list
+        max: 1
+      texto:
+        label: Texto
+        type: textarea
+        icon: edit
+      label:
+        label: Etiqueta
+        type: text  
+      url:
+        label: url
+        type: text

@@ -1,0 +1,40 @@
+Title: Hero
+
+----
+
+Portada:
+
+- logo.png
+
+----
+
+Color: #FFEECC
+
+----
+
+Slide:
+
+- 
+  imagen:
+    - cartel-vertical-05.jpg
+  texto: ""
+  label: carousel-1
+  url: /curso/
+- 
+  imagen:
+    - slide-2.jpg
+  texto: ""
+  label: carousel-2
+  url: ""
+
+----
+
+Slide1: - cartel-vertical-07.jpg
+
+----
+
+Slide2: - cartel-vertical-06.jpg
+
+----
+
+Slide3: - cartel-vertical-05.jpg
