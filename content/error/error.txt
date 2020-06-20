@@ -1,1 +1,23 @@
 Title: Error
+
+----
+
+Imagen:
+
+- rapture.jpg
+
+----
+
+Texto:
+
+There’s more<br>
+out there<br>
+404
+
+----
+
+Text:
+
+There’s more
+out there
+404

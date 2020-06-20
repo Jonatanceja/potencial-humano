@@ -1,0 +1,22 @@
+Title: Portada
+
+----
+
+Portada:
+
+- logo.png
+
+----
+
+Fondo: FBD9D9
+
+----
+
+Slide:
+
+- 
+  imagen:
+    - coaching-1.jpg
+  texto: ""
+  label: ""
+  url: ""

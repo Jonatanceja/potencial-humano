@@ -1,0 +1,28 @@
+Title: Portada
+
+----
+
+Portada:
+
+- logo-amarillo.png
+
+----
+
+Fondo: 9CD7DA
+
+----
+
+Slide:
+
+- 
+  imagen:
+    - eliud-china-1.jpg
+  texto: ""
+  label: imagen-1
+  url: ""
+- 
+  imagen:
+    - eliud-china-2.jpg
+  texto: ""
+  label: imagen-2
+  url: ""

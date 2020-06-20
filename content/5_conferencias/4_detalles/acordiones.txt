@@ -1,0 +1,25 @@
+Title: Detalles
+
+----
+
+Acordiones:
+
+- 
+  titulo: El Misterio del Silencio
+  texto: ""
+- 
+  titulo: El poder del pensamiento
+  texto: ""
+- 
+  titulo: Las relaciones como espejo
+  texto: ""
+- 
+  titulo: Puertas a la presencia
+  texto: ""
+- 
+  titulo: 'Del sufrimiento a la paz '
+  texto: ""
+
+----
+
+Fondo: FFEECC

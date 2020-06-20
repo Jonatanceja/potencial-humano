@@ -1,0 +1,86 @@
+title: Articulo
+pages: false
+preset: pages
+icon: calendar
+
+fields: 
+  uno:
+    type: headline
+    label: Sección 1
+  portada: 
+    label: Portada
+    type: files
+    icon: image
+    layout: list
+    max: 1
+  color:
+    label: Color de fondo
+    type: select
+    options:
+      beige: "#FFEECC"
+      azul: "#9CD7DA"
+      naranja: "#FBB681"
+      lila: "#FBD9D9"
+    icon: wand
+  slide: 
+    type: structure
+    fields:
+      imagen:
+        type: files
+        icon: image
+        layout: list
+        max: 1
+      texto:
+        label: Texto
+        type: textarea
+        icon: edit
+      label:
+        label: Etiqueta
+        type: text  
+      url:
+        label: url
+        type: text
+  imagen1: 
+    label: Imagen
+    type: files
+    icon: image
+    layout: list
+    max: 1
+  detalles:
+    type: headline
+    label: Contenido del blog
+  etiqueta:
+    label: Etiqueta
+    type: text
+    icon: tag
+  titulo:
+    label: Título
+    type: textarea
+    icon: headline
+  texto2: 
+    label: Texto
+    type: textarea
+  fondo:
+    label: Color de fondo
+    type: text
+    icon: wand
+  acordiones:
+    type: structure
+    fields:
+      titulo:
+        label: Título
+        type: text
+        icon: headline
+      texto:
+        label: Texto
+        type: textarea
+        icon: edit
+  tres:
+    type: headline
+    label: Imagen final
+  imagen2: 
+    label: Imagen
+    type: files
+    icon: image
+    layout: list
+    max: 1

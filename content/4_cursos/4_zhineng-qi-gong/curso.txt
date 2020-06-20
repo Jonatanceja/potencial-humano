@@ -1,0 +1,220 @@
+Title: Zhineng Qi Gong
+
+----
+
+Portada:
+
+- logo.png
+
+----
+
+Color: FBD9D9
+
+----
+
+Slide:
+
+- 
+  imagen:
+    - cartel-2.jpg
+  texto: ""
+  label: imagen-1
+  url: ""
+- 
+  imagen:
+    - cartel-3.jpg
+  texto: ""
+  label: imagen-3
+  url: ""
+- 
+  imagen:
+    - cartel-1.jpg
+  texto: ""
+  label: imagen-1
+  url: ""
+
+----
+
+Imagen1:
+
+- meditacion.jpg
+
+----
+
+Etiqueta: Zhineng Qi Gong
+
+----
+
+Titulo: Zhineng Qi Gong
+
+----
+
+Fecha: 2020-07-11
+
+----
+
+Texto2: En la búsqueda por desarrollar el máximo potencial del ser humano, surge como respuesta esta disciplina, a través de la cual los seres humanos que se dedicaron con total disciplina, lograron evolucionar física, emocional, mental y energéticamente a niveles extraordinarios.
+
+----
+
+Fondo: 9CD7DA
+
+----
+
+Acordiones:
+
+- 
+  titulo: ¿Qué es el Qì Gōng 气功?
+  texto: |
+    En la búsqueda por desarrollar el máximo potencial del ser humano, surge como respuesta esta disciplina, a través de la cual los seres humanos que se dedicaron con total disciplina, lograron evolucionar física, emocional, mental y energéticamente a niveles extraordinarios.
+    Es la ciencia que busca desarrollar el máximo potencial del ser humano a través del cultivo de  la energía interna del cuerpo, denominada Qì y la conexión con todo lo que nos rodea, que también es Qì. 
+    
+    El Qì es la fuerza o sustancia que forma todo en el universo y que se compone de materia, energía e información.
+    Durante los últimos 5 mil años se ha descubierto que esta ciencia es capaz de mejorar la salud y curar inmensos tipos de enfermedades, pero lo más importante, se ha descubierto que puede ayudarles a alcanzar la paz mental y espiritual.
+    Durante miles de años, el entrenamiento del Qì Gōng se mantuvo en secreto, sobre todo en los sistemas de artes marciales, budismo y taoísmo. Sólo la acupuntura y algunos pocos y en su mayoría superficiales ejercicios de Qì Gōng relacionados a la salud estaban disponibles para el público en general. Hoy en día, la medicina ha conseguido finalmente experimentar el Qì Gōng desde un punto de vista más amplio y científico, y ha averiguado y comprobado que puede curar numerosas enfermedades que la medicina occidental aún trata con mucha dificultad, entre las cuales se encuentran algunos tipos de cáncer.
+    Es una disciplina de largo proceso, que requiere esfuerzo y dedicación para desatar nuestro más alto potencial, a través de movimientos, sonidos, respiraciones y un uso específico de la mente.
+- 
+  titulo: >
+    ¿Cuál es la diferencia entre el
+    ejercicio físico y el Qì Gōng?
+  texto: |
+    La priorización de la vida espiritual, más que en la material, es una de las diferencias más notables de la cultura oriental con respecto a la occidental. Vemos un ejemplo de ello en la conservación de la salud. Donde el occidental destaca más el cuerpo físico (muchas veces solo la parte externa – músculos y piel), mientras que el oriental prioriza la salud mental y espiritual.
+    La mayoría de los occidentales creen que si mejoran su cuerpo físico, mejora su salud, esto es solamente cierto a un nivel muy básico y primitivo. La realidad es que desconocen el equilibrio de la energía interior del cuerpo.
+    Al ejercicio común y corriente se le llamaba Wai Jiann Gong (crear la fortaleza externa) o Yauan Hsin Jy Wai Gong Yun Dong (ejercicios externos sin concentración ni atención mental).
+    Una persona que hace mucho ejercicio y cuyo cuerpo aparentemente se vea más fuerte, no necesariamente es más sana y más feliz que una persona común.
+    La realidad es que para gozar de una buena salud y de una vida feliz, hay que tener un cuerpo sano, las emociones estables, una mente sana y pura, y una circulación de Qì constante y equilibrada. La auténtica salud, es tanto interna como externa.
+    Todo practicante que esté firmemente establecido en el Qì Gōng, forzosamente goza de una salud muy superior al de una persona común, y una vida mucho más plena y equilibrada. Esto debido a la consciencia aplicada en la mente, el desbloqueo y balance emocional, el flujo energético (Qì), y los movimientos físicos que se realizan con la práctica.
+- 
+  titulo: ZhìNéng QìGōng
+  texto: |
+    ZhìNéng QìGōng es la forma más evolucionada del desarrollo del QìGōng. Es lo mejor de lo mejor. La más preciosa flor en el jardín del Qì Gōng. 
+    En los 80s, el doctor Pang He Ming, creador de esta ciencia, abrió por primera vez este sistema, adaptando lo mejor de lo mejor del budismo, el taoísmo, confucianismo, las artes marciales y la medicina china, a la ciencia, la medicina contemporánea y las necesidades sociales.
+    En 1996 el Ministerio de Salud y Deportes de China, publicó un artículo en el que se reconocen y autorizan tan sólo once sistemas de QiGong, siendo el ZhìNéng QìGōng  el número 1, debido a su alta efectividad, seriedad y respaldo científico, reconocida desde entonces como la práctica más respetada y recomendada en su tipo.
+    Es una ciencia que facilita la AUTO-SANACIÓN, a través del manejo adecuado del Qi. En el ZhìNéng QìGōng no hay «pacientes» (persona que espera que la curen), solamente hay «practicantes», donde cada uno toma una total responsabilidad de su proceso de curación, y practica con total entrega hasta conseguir resultados impactantes.
+    Está documentado que en periodos de 24 días el 95% de los pacientes tienen mejora y/o curación total, sin importar el tipo de enfermedad. 
+    A diferencia de otros estilos de Qì Gōng es que es muy Simple, fácil de aprender, 100% seguro y el de más alto grado de eficacia.
+- 
+  titulo: Beneficios de la práctica
+  texto: |
+    La práctica constante y sostenida del ZhìNéng QìGōng, practicada de la manera correcta, forzosamente nos lleva a recuperar y elevar nuestra salud, prevenir todo tipo de enfermedades, elevar nuestra energía y nuestra calidad de vida y aumentar nuestra expectativa de vida.
+    
+    Restaura la comunicación entre el cuerpo y la mente, lo que te acerca a la experiencia de tu propia integridad y conexión con las fuentes universales.
+    
+    Es un método fantástico para recuperar partes de nuestro ser que se han alejado y desasociado de la experiencia sensorial corporal, ya que restaura la relación alquímica entre nuestra mente consciente, la imaginación y las funciones vitales de nuestro cuerpo.
+    
+    A través del cambio de conciencia a través de la práctica, aprenderás cómo se comunica el cuerpo. En el momento en que empieces a entender el lenguaje corporal, serás consciente de las sensaciones, síntomas, anhelos, símbolos, sueños, etc.
+    
+    ZhìNéng QìGōng no solo consiste en movimientos. La gran teoría detrás de esta forma toca muchos aspectos de nuestra vida moderna. Si descubres cómo puedes despertar los principios del Qi adaptándote a este estilo de vida, te atreverás a explorar partes desconocidas de tu cuerpo y mente.
+    
+    Esta nueva movilidad del cuerpo y la mente mejorará tu nivel de salud de una manera totalmente diferente. La capacidad de mover y estirar tu cuerpo te da una enorme flexibilidad. Te sentirás más saludable y feliz en diferentes aspectos de la vida.
+    
+     A través de la práctica diaria, tu enfoque y disciplina mejorarán. Te sentirás más enraizado y relajado.
+    
+    Si el cuerpo y la mente están conectados a tierra y relajados, nuestra capacidad de auto curación mejorará. Vivirás una vida larga y feliz.
+- 
+  titulo: Corto plazo
+  texto: |
+    - Se comienza a recuperar la salud
+    - Eliminar insomnio
+    - Mejora la circulación
+    - Fortalece mucho el sistema inmunológico
+    - Manejar el estrés eficientemente
+    - Incrementa la alegría y el sentido de vida se comienza a aclarar
+    - Balance emocional
+    - Incrementa el foco atencional, la concentración y el enfoque.
+    - Aumenta la flexibilidad
+- 
+  titulo: Mediano plazo
+  texto: |
+    - Elimina todo tipo de padecimientos
+    - Se desarrolla un mayor manejo emocional
+    - Desaparece todo tipo de depresión y animosidad
+    - Mayor capacidad resolutIva
+    - Una mente clara y libre de pensamientos que distraen.
+    - Mayor paciencia, concentración y reducción del estrés.
+    - Aumento considerable de la vitalidad.
+    - Aumenta la productividad
+- 
+  titulo: Largo plazo
+  texto: |
+    - Desarrollo de tu máximo potencial
+    - Paz interior
+    - Una vida larga y feliz
+    - Vida más abundante
+    - El objetivo principal de ZhìNéng QìGōng es y siempre ha sido llegar al 道; Dao (Tao). La máxima realización del ser humano.
+- 
+  titulo: En El Potencial Humano
+  texto: >
+    Tomamos siempre una actitud científica,
+    buscando siempre explorar la verdad
+    dentro de nosotros mismos, y somos
+    verdaderos practicantes, no creyentes.
+    No creemos en algo solo por leerlo o por
+    que alguien más nos lo dijo. Por lo que
+    te invitamos a que experimentes todos
+    estos beneficios por ti mismo, en tu
+    propia experiencia directa. Todos estos
+    beneficios serán verdad únicamente
+    cuando lo experimentes en el marco de tu
+    cuerpo, mente y de tu vida, por esto
+    mismo te guiaremos paso a paso en el
+    recorrido. Cada estudiante debe sembrar
+    por sí mismo. Más de 10 millones de
+    practicantes en el mundo han
+    experimentado incontables beneficios y
+    estamos seguros que con tu práctica, tu
+    entrega, tu constancia, tu esfuerzo y
+    nuestra guía, tu también lo harás. 
+- 
+  titulo: 'Curso-taller vivencial. '
+  texto: |
+    **Zhineng Qi Gong nivel 1: Peng Qi Guan Ding Fa**
+    
+    Peng Qi Guan Ding Fa consiste en movimientos físicos durante el cual dirigimos Qi con la mente, enseña a combinar nuestra mente con Qi universal, a través de los movimientos de apertura y cierre.
+    
+    Como resultado, el Qi interno sale y el Qi externo entra en acción. Este proceso de intercambio permite hacer circular el Qi de forma íntima y fácil entre el cuerpo humano y la naturaleza.
+    
+    Esto nos ayuda a tener un fuerte sentido de Qi de forma rápida y un cuerpo sensible, que aumentará significativamente el potencial de mejorar nuestra salud y de sanación, a través de esta práctica.
+    
+    PengQiGuanDingFa mueve el Qi con la mente.
+    
+    **Zhineng Qi Gong nivel 2: Xing Shen Zhuang**
+    
+    El 2o Nivel de ZhìNéng QìGōng “Xíng Shén Zhuāng” y su método complementario “Xùn Jīng Dǎo Yīn Fǎ” están diseñados para integrar la mente con el cuerpo y llevar el Qì profundamente al interior.
+    
+    Es recomendable aprenderlo cuando ya se ha profundizado en el Primer Nivel de ZhìNéng QìGōng” Pěng Qì Guàn Dǐng Fǎ” por un año por lo menos, aunque aprenderlo no quiere decir que será nuestro método principal, ya que es un proceso muy personal.
+    
+    También compartiremos Liàn Qì Sì Fǎ, métodos que ayudan a aumentar el flujo de Qì en el cuerpo y que mejoran los resultados en la practica del 2o Nivel. Y finalmente se enseñará Jiu Gong Shi San Men, considerada la parte avanzada de Pěng Qì Guàn Dǐng Fǎ.
+    
+    **Zhineng Qi Gong nivel 3: Wu Yuan Zhuang**
+    
+    En el nivel tres se trabajan los órganos internos del corazón, los pulmones, el hígado, el bazo y los riñones. En este nivel al trabajar con los órganos, también se trabaja con las emociones relacionadas: alegría, el enojo, la ira, las preocupaciones o pensamientos recurrentes, la tristeza, el miedo.
+    Practicando Wu Yuan Zhuang, el Qi de los cinco órganos y de las cinco emociones que están relacionadas, se fortalece.
+    
+    Si el Qi de los cinco órganos se intensifica, las funciones de estos se fortalecerán y las actividades relacionados entre sí, estarán bajo control voluntario; por lo tanto, vamos obtener un nivel superior tanto de salud física, como mental.
+    
+    Wu Yuan Zhuang mueve el Qi con sonidos.
+- 
+  titulo: Retiros
+  texto: |
+    **Zhineng Qi Gong: Yo soy el universo**
+    
+    Diseñado para practicantes que ya hayan tomado PengQiGuanDingFa y busquen profundizar mucho más.
+    
+    **Zhineng Qi Gong: Guerrero pacífico**
+    
+    Diseñado para practicantes que ya hayan tomado Xing Shen Zhuang y busquen profundizar mucho más.
+    
+    **Zhineng Qi Gong: Más allá del Ser y No-ser**
+    
+    Diseñado para practicantes que ya hayan tomado Wu Yuan Zhuang y busquen profundizar mucho más.
+
+----
+
+Boton: APARTAR
+
+----
+
+Imagen2:
+
+- incienso.jpg

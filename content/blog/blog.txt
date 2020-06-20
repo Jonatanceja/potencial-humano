@@ -1,0 +1,32 @@
+Title: Blog
+
+----
+
+Portada:
+
+- logo-amarillo.png
+
+----
+
+Color: FBB681
+
+----
+
+Slide:
+
+- 
+  imagen:
+    - blog.jpg
+  texto: ""
+  label: ""
+  url: ""
+
+----
+
+Imagen1:
+
+- blog-2.jpg
+
+----
+
+Fondo: FBD9D9

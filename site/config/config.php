@@ -36,3 +36,7 @@ return [
         },
     ],
 ];
+
+return [
+    'date.handler' => 'strftime'
+];

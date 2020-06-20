@@ -1,6 +1,8 @@
 @extends('layouts.default')
 @section('content')
 
-<h1>{{ $page->title()->html() }}</h1>
+@foreach($page->children()->listed() as $part)
+@include($part->intendedTemplate(), ['page' => $part])
+@endforeach
 
 @endsection

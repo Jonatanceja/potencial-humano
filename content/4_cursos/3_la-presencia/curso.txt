@@ -1,0 +1,106 @@
+Title: La presencia
+
+----
+
+Portada:
+
+- logo.png
+
+----
+
+Color: beige
+
+----
+
+Slide:
+
+- 
+  imagen:
+    - atrapasueno.jpg
+  texto: ""
+  label: ""
+  url: ""
+
+----
+
+Imagen1:
+
+- la-presencia-2.jpg
+
+----
+
+Etiqueta: Cursos
+
+----
+
+Titulo: La Presencia
+
+----
+
+Fecha: 
+
+----
+
+Texto2:
+
+La vida es Ahora. No existe y nunca existirá un solo momento que no sea ESTE MOMENTO. Y sin embargo, nuestra capacidad de estar presentes se ve disminuida debido a distintos bloqueos que vamos teniendo. 
+
+Cada chakra representa una dimensión de nuestra vida y nuestro potencial de traer la presencia a esta dimensión. ¿Por qué podemos estar mas presentes en ciertas actividades y en otras no? Debido a los distintos bloqueos que tenemos en cada chakra.
+
+----
+
+Fondo: #FBB681
+
+----
+
+Acordiones:
+
+- 
+  titulo: ¿Qué son los Chakras?
+  texto: |
+    Desde las grandes galaxias espirales, miles de años luz de diámetro, hasta los billones de átomos girando en un grano de arena, el universo es compuesto por ruedas giratorias de energía. Flores, troncos de árboles, planetas y personas. Cada uno está hecho de pequeñas ruedas que giran hacia adentro, cabalgando sobre la gran rueda de la tierra, girando en su órbita a través del espacio.
+    
+    En el núcleo interno de cada uno de nosotros, giran 7 ruedas como centros de energía llamados chakras.
+    
+    Las intersecciones en espiral de las fuerzas vitales, cada chakra refleja un aspecto de la conciencia esencial para nuestras vidas.
+    
+    Juntos, los 7 chakras forman una fórmula profunda para la totalidad que integra mente, cuerpo y espíritu. Como sistema completo, los chakras proporcionan una herramienta poderosa para el crecimiento personal y planetario.
+    
+    Los chakras son centros organizadores para la recepción, asimilación y transmisión de energías vitales.
+    
+    Nuestros chakras, como centros centrales, forman la red de coordinación de nuestro complicado sistema mente / cuerpo. Desde el comportamiento instintivo hasta las estrategias planificadas conscientemente, desde las emociones hasta las creaciones artísticas, los chakras son los programas maestros que rigen nuestra vida, nuestros amores, nuestro aprendizaje y nuestra iluminación. Como siete modalidades vibratorias, los chakras forman un mítico Puente del Arco Iris, un canal de conexión que une Cielo y Tierra, mente y cuerpo, espíritu y materia, pasado y futuro.
+    
+    A medida que giramos a través de los tiempos tumultuosos de nuestra era actual, los chakras actúan como engranajes que giran la espiral de la evolución, llevándonos siempre hacia las fronteras aún sin explotar de la conciencia y su potencial infinito.
+- 
+  titulo: Talleres
+  texto: |
+    **Chakra 1**
+    Este curso tiene como propósito la sanación más profunda del chakra raíz.
+    
+    **Chakra 2**
+    Este curso tiene como propósito la sanación más profunda del chakra sacro.
+    
+    **Chakra 3**
+    Este curso tiene como propósito la sanación más profunda del chakra plexo solar.
+    
+    **Chakra 4**
+    Este curso tiene como propósito la sanación más profunda del chakra corazón.
+    
+    **Chakra 5**
+    Este curso tiene como propósito la sanación más profunda del chakra garganta.
+    
+    **Chakra 6**
+    Este curso tiene como propósito la sanación más profunda del chakra del tercer ojo.
+    
+    **Chakra 7**
+    Este curso tiene como propósito la sanación más profunda del chakra coronario.
+
+----
+
+Boton: 
+
+----
+
+Imagen2:
+
+- prescencia-1.jpg

@@ -1,24 +1,59 @@
 title: Cursos
+preset: page
 icon: calendar
 
-columns:
-  left:
-    width: 1/2
-    sections:
-      drafts:
-        extends: sections/curso 
-        headline: Borradores
-        status: draft
+options:
+  delete: false
 
-      unlisted:
-        extends: sections/curso
-        headline: In Review
-        status: unlisted
+fields:
+  portada: 
+    label: Portada
+    type: files
+    icon: image
+    layout: list
+    max: 1
+  color:
+    label: Color de fondo
+    type: select
+    options:
+      FFEECC: Beige
+      9CD7DA: Azul
+      FBB681: Naranja
+      FBD9D9: Lila
+    icon: wand
+  slide: 
+    type: structure
+    fields:
+      imagen:
+        type: files
+        icon: image
+        layout: list
+        max: 1
+      texto:
+        label: Texto
+        type: textarea
+        icon: edit
+      label:
+        label: Etiqueta
+        type: text  
+      url:
+        label: url
+        type: text
+  imagen1: 
+    label: Imagen
+    type: files
+    icon: image
+    layout: list
+    max: 1
+  fondo:
+    label: Color de fondo
+    type: select
+    options:
+      FFEECC: Beige
+      9CD7DA: Azul
+      FBB681: Naranja
+      FBD9D9: Lila
+    icon: wand
 
-  right:
-    width: 1/2
-    sections:
-      listed:
-        extends: sections/curso
-        headline: Published
-        status: listed
+
+

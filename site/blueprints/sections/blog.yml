@@ -1,0 +1,6 @@
+type: pages
+headline: Blog
+sortBy: from asc
+template: curso
+empty: Sin eventos por el momento
+sortBy: date desc

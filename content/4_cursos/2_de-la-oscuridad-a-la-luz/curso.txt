@@ -1,0 +1,72 @@
+Title: De la Oscuridad a la Luz
+
+----
+
+Portada:
+
+- logo-amarillo.png
+
+----
+
+Color: beige
+
+----
+
+Slide:
+
+- 
+  imagen:
+    - la-presencia.jpg
+  texto: ""
+  label: ""
+  url: ""
+
+----
+
+Imagen1:
+
+- luz.jpg
+
+----
+
+Etiqueta: Cursos
+
+----
+
+Titulo: De la Oscuridad a la Luz
+
+----
+
+Fecha: 
+
+----
+
+Texto2:
+
+¨La clave de la vida es morir antes de morir para descubrir que no hay muerte¨.
+Uno de los mas fundamentales viajes de El potencial Humano. 
+De la oscuridad a la luz es una serie de talleres teórico prácticos que tienen como objetivo profundizar en el sufrimiento del ser humano y proporcionar una ruta para trascenderlo.
+A través de 4 niveles vamos explorando a profundidad como sanar nuestro cuerpo emocional y recuperar el gozo de la vida. 
+
+- Nivel 1 El falso ser y como trascenderlo
+- Nivel 2 Sanando el niño interior
+- Nivel 3 La erradicación del sufrimiento
+- Nivel 4 El juego de lilah
+
+----
+
+Fondo: #FBD9D9
+
+----
+
+Acordiones: 
+
+----
+
+Boton: 
+
+----
+
+Imagen2:
+
+- oscuridad.jpg

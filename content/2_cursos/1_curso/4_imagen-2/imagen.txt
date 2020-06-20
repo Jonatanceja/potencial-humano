@@ -1,7 +1,0 @@
-Title: Imagen 2
-
-----
-
-Imagen:
-
-- imagen-curso-2.jpg

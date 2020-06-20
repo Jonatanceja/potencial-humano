@@ -1,0 +1,13 @@
+title: Inicio
+icon: home
+
+fields:
+  imagen:
+    label: Imagen
+    type: files
+    max: 1
+    icon: image
+  texto: 
+    label: Texto
+    type: textarea
+

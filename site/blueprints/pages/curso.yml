@@ -1,16 +1,99 @@
 title: Curso
-icon: home
+pages: false
+preset: pages
+icon: calendar
 
-sections:
-  parts:
-    headline: Parts
-    type: pages
-    status: all
-    info: "{{ page.intendedTemplate }}"
-    image: false
-    templates:
-      - hero
-      - imagen
-      - texto
-      - acordiones
-      - detalles
+fields: 
+  uno:
+    type: headline
+    label: Sección 1
+  portada: 
+    label: Portada
+    type: files
+    icon: image
+    layout: list
+    max: 1
+  color:
+    label: Color de fondo
+    type: select
+    options:
+      FFEECC: Beige
+      9CD7DA: Azul
+      FBB681: Naranja
+      FBD9D9: Lila
+      E0E21B: Verde
+    icon: wand
+  slide: 
+    type: structure
+    fields:
+      imagen:
+        type: files
+        icon: image
+        layout: list
+        max: 1
+      texto:
+        label: Texto
+        type: textarea
+        icon: edit
+      label:
+        label: Etiqueta
+        type: text  
+      url:
+        label: url
+        type: text
+  imagen1: 
+    label: Imagen
+    type: files
+    icon: image
+    layout: list
+    max: 1
+  detalles:
+    type: headline
+    label: Detalles del evento
+  etiqueta:
+    label: Etiqueta
+    type: text
+    icon: tag
+  titulo:
+    label: Título
+    type: textarea
+    icon: headline
+  fecha:
+    label: Fecha
+    type: date
+  texto2: 
+    label: Texto
+    type: textarea
+  fondo:
+    label: Color de fondo
+    type: select
+    options:
+      FFEECC: Beige
+      9CD7DA: Azul
+      FBB681: Naranja
+      FBD9D9: Lila
+      E0E21B: Verde
+    icon: wand
+  acordiones:
+    type: structure
+    fields:
+      titulo:
+        label: Título
+        type: text
+        icon: headline
+      texto:
+        label: Texto
+        type: textarea
+        icon: edit
+  boton:
+    type: text
+    title: Botón PayPal
+  tres:
+    type: headline
+    label: Imagen final
+  imagen2: 
+    label: Imagen
+    type: files
+    icon: image
+    layout: list
+    max: 1

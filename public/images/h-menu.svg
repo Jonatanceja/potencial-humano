@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="44px" viewBox="0 0 48 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Blog" transform="translate(-77.000000, -90.000000)" stroke="#000000" stroke-width="2">
+            <g id="Menu-superior" transform="translate(-1.000000, 0.000000)">
+                <g id="Group" transform="translate(79.000000, 91.000000)">
+                    <line x1="0.522727273" y1="0.5" x2="45.4772727" y2="0.5" id="Line"></line>
+                    <line x1="0.522727273" y1="21" x2="45.4772727" y2="21" id="Line-Copy"></line>
+                    <line x1="0.522727273" y1="42" x2="45.4772727" y2="42" id="Line-Copy-2"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

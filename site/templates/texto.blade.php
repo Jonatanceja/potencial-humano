@@ -1,10 +1,11 @@
-<div class="text-black p-20" style="background-color: <?= $page->fondo() ?>">
+<!--- Texto de introducción --->
+<div class="text-black p-10 lg:p-20" style="background-color: #<?= $page->fondo() ?>">
     <div class="container m-auto">
-    <h1 class="text-3xl lg:text-6xl">
-        <?= $page->titulo() ?>
-    </h1>
-    <p class="text-2xl lg:text-4xl text-right">
-        <?= $page->texto() ?>
+        <h1 class="text-3xl lg:text-6xl tracking-widest">    
+        <?= $page->titulo()->kti() ?>
+        </h1>
+    <p class="text-xl lg:text-4xl text-right tracking-widest">
+        <?= $page->texto()->kti() ?>
     </p>
     </div>
 </div>

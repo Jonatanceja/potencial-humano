@@ -1,0 +1,56 @@
+title: Blog
+preset: page
+icon: calendar
+
+options:
+  delete: false
+
+fields:
+  portada: 
+    label: Portada
+    type: files
+    icon: image
+    layout: list
+    max: 1
+  color:
+    label: Color de fondo
+    type: select
+    options:
+      FFEECC: Beige
+      9CD7DA: Azul
+      FBB681: Naranja
+      FBD9D9: Lila
+    icon: wand
+  slide: 
+    type: structure
+    fields:
+      imagen:
+        type: files
+        icon: image
+        layout: list
+        max: 1
+      texto:
+        label: Texto
+        type: textarea
+        icon: edit
+      label:
+        label: Etiqueta
+        type: text  
+      url:
+        label: url
+        type: text
+  imagen1: 
+    label: Imagen
+    type: files
+    icon: image
+    layout: list
+    max: 1
+  fondo:
+    label: Color de fondo
+    type: select
+    options:
+      FFEECC: Beige
+      9CD7DA: Azul
+      FBB681: Naranja
+      FBD9D9: Lila
+    icon: wand

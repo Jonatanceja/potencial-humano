@@ -1,8 +1,32 @@
 title: Default Page
 preset: page
-fields:
-  text:
-    label: Text
-    type: textarea
-    size: large
+
+
+sections:
+  parts:
+    headline: Secciones
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - hero
+      - imagen
+      - texto
+      - acordiones
+      - detalles
+  content:
+    type: fields
+    fields:
+      fondo:
+        label: Color de fondo
+        type: select
+        options:
+          FFEECC: Beige
+          9CD7DA: Azul
+          FBB681: Naranja
+          FBD9D9: Lila
+          E0E21B: Verde
+        icon: wand
+
 

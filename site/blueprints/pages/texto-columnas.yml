@@ -1,0 +1,23 @@
+title: Texto 2 columnas
+icon: home
+
+fields:
+  introduccion:
+    label: Título Principal
+    type: text
+    icon: headline
+  titulo1:
+    label: Subtitulo
+    type: text
+    icon: headline
+  texto1: 
+    label: Texto
+    type: textarea
+  titulo2:
+    label: Subtitulo
+    type: text
+    icon: headline
+  texto2: 
+    label: Texto
+    type: textarea
+    

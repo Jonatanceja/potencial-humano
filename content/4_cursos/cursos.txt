@@ -1,0 +1,30 @@
+Title: Cursos
+
+----
+
+Portada:
+
+- logo-amarillo.png
+
+----
+
+Color: FBB681
+
+----
+
+Slide:
+
+- 
+  imagen:
+    - slide-2.jpg
+  texto: ""
+  label: slide-1
+  url: '#'
+
+----
+
+Imagen1: 
+
+----
+
+Fondo: FFEECC

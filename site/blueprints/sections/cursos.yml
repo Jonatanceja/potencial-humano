@@ -1,0 +1,7 @@
+type: pages
+headline: Cursos
+sortBy: from asc
+template: curso
+empty: Sin eventos por el momento
+sortBy: date desc
+

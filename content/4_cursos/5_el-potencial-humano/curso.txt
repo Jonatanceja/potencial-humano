@@ -1,0 +1,103 @@
+Title: El Potencial Humano
+
+----
+
+Portada:
+
+- logo.png
+
+----
+
+Color: beige
+
+----
+
+Slide:
+
+- 
+  imagen:
+    - zhine.jpg
+  texto: ""
+  label: slide-1
+  url: '#'
+
+----
+
+Imagen1:
+
+- imagen-curso.jpg
+
+----
+
+Etiqueta: El Potencial Humano
+
+----
+
+Titulo: El Potencial Humano
+
+----
+
+Fecha: 2020-08-29
+
+----
+
+Texto2:
+
+El Potencial Humano, como una propuesta integral, profunda y genuina del desarrollo del ser, propone como base 3 perlas indispensables para el desarrollo de nuestra conciencia: La voluntad, el amor y la sabiduría. 
+
+A través de estos talleres podremos desarrollar en nosotros nuestras capacidades mas importantes como seres humanos para cumplir el propósito último de nuestra existencia.
+
+----
+
+Fondo: #FBB681
+
+----
+
+Acordiones:
+
+- 
+  titulo: El código de la Voluntad
+  texto: |
+    Descodificando la más grande fortaleza del Potencial Humano.
+    Las Técnicas de más alta eficacia para incrementar la fuerza de voluntad.
+    
+    - Reconocer patrones mentales para construir la fuerza de voluntad
+    - Toda la ciencia detrás del autodominio
+    - Los mas grandes secretos sobre la fuerza de voluntad
+    - Técnicas de auto-dominio al ser más conscientes de cómo funciona la fuerza de voluntad
+    - Priorización y gestión de tareas aprendiendo cómo la fuerza de voluntad es un recurso limitado
+    - Wu wei: el hacer sin esfuerzo.
+    - Como eliminar la prisa interna.
+- 
+  titulo: Amor incondicional
+  texto: |
+    Yo soy Tu.
+    
+    - Reconocer la especularidad del universo
+    - Conocer la esencia de las formas
+    - Amor propio
+    - Eliminar los bloqueos que impiden el amor incondicional a uno mismo
+    - Sanar desde la presencia
+    - Vivir desde la gratitud
+- 
+  titulo: La sabiduría de ser
+  texto: |
+    La miel de la experiencia de auto-conocerse
+    
+    - Quien soy
+    - Quien no soy
+    - La existencia de la no existencia
+    - La Paz no viene de este mundo
+    - Yo soy
+    - El propósito de tu vida
+    - La iluminación
+
+----
+
+Boton: 
+
+----
+
+Imagen2:
+
+- imagen-curso-2.jpg
