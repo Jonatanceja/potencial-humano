@@ -28,6 +28,16 @@ Slide:
     - slide-2.jpg
   texto: ""
   url: '#'
+- 
+  titulo: Este es slide de prueba
+  subtitulo: Hola
+  label: ""
+  enlace: ""
+  fecha: "2342134234"
+  lugar: "23423423"
+  id: ""
+  color: FBB681
+  checked: ""
 
 ----
 

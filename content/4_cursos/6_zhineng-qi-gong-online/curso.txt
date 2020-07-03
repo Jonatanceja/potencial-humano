@@ -12,6 +12,12 @@ Portada:
 
 ----
 
+Imagen:
+
+- slide-2.jpg
+
+----
+
 Color: FBB681
 
 ----
