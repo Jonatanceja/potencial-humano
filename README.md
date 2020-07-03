@@ -1,22 +1,9 @@
-# Quick Start
+# Potencial Humano
 
-```sh
-$ git clone git@github.com:beebmx/kirby-starterkit.git
-$ cd kirby-starterkit
-$ touch .env
-$ composer install
-```
+Potencial Humano es un sitio web administrable sobre el CMS Kirby, 
+para cualquiere información referente a este sitio vaya a:
+<https://getkirby.com>
 
-# Kirby Starterkit
-
-Kirby is a file-based CMS.
-Easy to setup. Easy to use. Flexible as hell.
-
-## Trial
-
-You can try Kirby on your local machine or on a test
-server as long as you need to make sure it is the right
-tool for your next project.
 
 ## Buy a license
 
