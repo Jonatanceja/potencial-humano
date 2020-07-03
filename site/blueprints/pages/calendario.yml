@@ -1,0 +1,16 @@
+title: Calendario
+
+fields:
+  calendario:
+    label: Calendario Googgle
+    type: textarea
+  fondo:
+    label: Color de fondo
+    type: select
+    options:
+      FFEECC: Beige
+      9CD7DA: Azul
+      FBB681: Naranja
+      FBD9D9: Lila
+      E0E21B: Verde
+    icon: wand   

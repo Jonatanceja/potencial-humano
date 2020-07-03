@@ -1,0 +1,26 @@
+title: Portada imagen
+icon: image
+
+fields: 
+  portada: 
+    label: Portada
+    type: files
+    icon: image
+    layout: list
+    max: 1
+  fondo:
+    label: Color de fondo
+    type: select
+    options:
+      FFEECC: Beige
+      9CD7DA: Azul
+      FBB681: Naranja
+      FBD9D9: Lila
+      E0E21B: Verde
+    icon: wand
+  imagen:
+    label: Imagen
+    type: files
+    icon: image
+    layout: list
+    max: 1

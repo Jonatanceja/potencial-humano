@@ -11,22 +11,21 @@
 	</div>
 
 <!---Slider--->
-	<div class="flex w-full lg:w-1/2 content-center h-screen">
-		<div class="carousel-inner relative overflow-hidden w-full">
+	<div class="flex w-full lg:w-1/2 h-screen text-center">
+		<div class="carousel-inner relative overflow-hidden w-full carousel-tap">
 			<!--Slide-->
 			<?php 
 	  $items = $page->slide()->toStructure();
 	  foreach ($items as $item): ?>
-	  <a href="<?= $item->url() ?>">
-			  <input class="carousel-open" type="radio" id="<?= $item->label() ?>" name="carousel" aria-hidden="true" hidden="" checked="checked">
+			  <input class="carousel-open" type="radio" id="<?= $item->label() ?>" name="carousel" aria-hidden="true" hidden="" checked="<?= $item->checked() ?>">
 			  <div class="carousel-item absolute opacity-0 h-full">
-				  <?php foreach ($item->imagen()->toFiles() as $image): ?>
-					<div class="block h-full w-full bg-white text-white text-5xl text-center bg-top bg-cover bg-bottom bg-no-repeat flex-row-reverse" style="background-image: url(<?= $image->url() ?>)">
-						<?= $item->texto()->html() ?>
-					</div>
-				  <?php endforeach ?>  
+				  <div class="w-full h-full" style="background-color: #<?= $item->color() ?>">
+					<p class="uppercase text-2xl lg:text-4xl tracking-widest" style="padding-top: 40vh"><?= $item->titulo() ?></p>
+					<p class="uppercase text-xl lg:text-2xl tracking-widest"><?= $item->subtitulo() ?></p>
+					<p class="uppercase text-xl lg:text-3xl tracking-widest mb-6"><?= $item->lugar() ?>, <?= $item->fecha() ?></p>
+					<a href="<?= $item->enlace() ?>" class="text-white uppercase tracking-widest bg-black hover:bg-gray-900 px-5 py-2">Ver más</a>
+				  </div>
 			  </div>
-			</a>
 			  <?php endforeach ?>
 			  
 			  

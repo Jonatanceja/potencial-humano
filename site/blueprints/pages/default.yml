@@ -15,6 +15,7 @@ sections:
       - texto
       - acordiones
       - detalles
+      - hero2
   content:
     type: fields
     fields:

@@ -2,13 +2,23 @@ Title: Yoga
 
 ----
 
+Tags: Curso
+
+----
+
 Portada:
 
 - logo-amarillo.png
 
 ----
 
-Color: beige
+Imagen:
+
+- slide-3.png
+
+----
+
+Color: FFEECC
 
 ----
 
@@ -23,21 +33,21 @@ Slide:
 
 ----
 
+Poster: 
+
+----
+
 Imagen1:
 
 - meditacion-naturaleza.jpg
 
 ----
 
-Etiqueta: Yoga
+Descripcion: Alinea y balancea todos los aspectos de tus vida con el poder de la meditación en movimiento.
 
 ----
 
 Titulo: Yoga
-
-----
-
-Fecha: 
 
 ----
 
@@ -48,7 +58,7 @@ Esta práctica utiliza posturas físicas, ejercicios de respiración y meditaci�
 
 ----
 
-Fondo: #FBD9D9
+Fondo: 9CD7DA
 
 ----
 
@@ -94,10 +104,34 @@ Acordiones:
 
 ----
 
-Boton: 
+Cursos: 
+
+----
+
+Acordiones2: 
+
+----
+
+Talleres: 
+
+----
+
+Acordiones3: 
 
 ----
 
 Imagen2:
 
 - meditacion-yoga.jpg
+
+----
+
+Boton: 
+
+----
+
+Fecha: 
+
+----
+
+Etiqueta: Yoga

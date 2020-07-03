@@ -35,8 +35,9 @@ return [
             return env('KIRBY_ENV', 'production') === $environment;
         },
     ],
+    'benediktengel.google-calendar-plugin.apikey' => 'AIzaSyAXK6qZjDzWcdSk9ivgh8CClAcwRtAwbn4',
+    'benediktengel.google-calendar-plugin.calendarID' => 'jonatanjonas@gmail.com',
+    'benediktengel.google-calendar-plugin.linkName' => 'Ver más.',
+    'benediktengel.google-calendar-plugin.descriptionLength' => '300',
 ];
 
-return [
-    'date.handler' => 'strftime'
-];

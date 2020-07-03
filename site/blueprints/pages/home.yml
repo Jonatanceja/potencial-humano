@@ -16,6 +16,7 @@ sections:
       - acordiones
       - detalles
       - centrado
+      - blurbs
   content:
     type: fields
     fields:

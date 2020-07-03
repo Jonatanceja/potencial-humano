@@ -4,11 +4,24 @@ preset: pages
 icon: calendar
 
 fields: 
+  tags:
+    label: Tags
+    type: tags
+    options:
+      - Curso
+      - Evento
+    max: 1
   uno:
     type: headline
     label: Sección 1
   portada: 
     label: Portada
+    type: files
+    icon: image
+    layout: list
+    max: 1
+  imagen:
+    label: Imagen
     type: files
     icon: image
     layout: list
@@ -41,6 +54,12 @@ fields:
       url:
         label: url
         type: text
+  poster:
+    abel: Poster
+    type: files
+    icon: image
+    layout: list
+    max: 1
   imagen1: 
     label: Imagen
     type: files
@@ -50,17 +69,14 @@ fields:
   detalles:
     type: headline
     label: Detalles del evento
-  etiqueta:
-    label: Etiqueta
+  descripcion:
+    label: Descripción corta
     type: text
     icon: tag
   titulo:
     label: Título
     type: textarea
     icon: headline
-  fecha:
-    label: Fecha
-    type: date
   texto2: 
     label: Texto
     type: textarea
@@ -85,9 +101,36 @@ fields:
         label: Texto
         type: textarea
         icon: edit
-  boton:
+  cursos: 
     type: text
-    title: Botón PayPal
+    label: Cursos
+  acordiones2:
+    label: Info cursos
+    type: structure
+    fields:
+      titulo:
+        label: Título
+        type: text
+        icon: headline
+      texto:
+        label: Texto
+        type: textarea
+        icon: edit
+  talleres: 
+    type: text
+    label: Retiros
+  acordiones3:
+    label: Info talleres
+    type: structure
+    fields:
+      titulo:
+        label: Título
+        type: text
+        icon: headline
+      texto:
+        label: Texto
+        type: textarea
+        icon: edit  
   tres:
     type: headline
     label: Imagen final
@@ -97,3 +140,7 @@ fields:
     icon: image
     layout: list
     max: 1
+  boton:  
+    label: Botón Paypal
+    type: textarea
+    

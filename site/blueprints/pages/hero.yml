@@ -1,4 +1,4 @@
-title: Portada
+title: Portada slider
 icon: image
 
 fields: 
@@ -20,12 +20,8 @@ fields:
     icon: wand
   slide: 
     type: structure
+    max: 6
     fields:
-      imagen:
-        type: files
-        icon: image
-        layout: list
-        max: 1
       titulo:
         label: Titulo
         type: text
@@ -47,6 +43,9 @@ fields:
       lugar:
         label: Lugar
         type: text
+      id:
+        label: id
+        type: text
       color:
         label: Color de fondo
         type: select
@@ -59,3 +58,8 @@ fields:
           E0E21B: Verde
           ED542A: Naranja fuerte
         icon: wand
+      checked:
+        label: ¿Inicial?
+        type: select
+        options:
+          checked: Si

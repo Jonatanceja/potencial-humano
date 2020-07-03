@@ -2,9 +2,19 @@ Title: Zhineng Qi Gong
 
 ----
 
+Tags: Curso
+
+----
+
 Portada:
 
 - logo.png
+
+----
+
+Imagen:
+
+- toa-heftiba-imqbtnuotd0-unsplash.jpg
 
 ----
 
@@ -12,26 +22,11 @@ Color: FBD9D9
 
 ----
 
-Slide:
+Slide: 
 
-- 
-  imagen:
-    - cartel-2.jpg
-  texto: ""
-  label: imagen-1
-  url: ""
-- 
-  imagen:
-    - cartel-3.jpg
-  texto: ""
-  label: imagen-3
-  url: ""
-- 
-  imagen:
-    - cartel-1.jpg
-  texto: ""
-  label: imagen-1
-  url: ""
+----
+
+Poster: 
 
 ----
 
@@ -41,15 +36,11 @@ Imagen1:
 
 ----
 
-Etiqueta: Zhineng Qi Gong
+Descripcion: Lleva tu salud a su maximo nivel
 
 ----
 
 Titulo: Zhineng Qi Gong
-
-----
-
-Fecha: 2020-07-11
 
 ----
 
@@ -165,49 +156,73 @@ Acordiones:
     estamos seguros que con tu práctica, tu
     entrega, tu constancia, tu esfuerzo y
     nuestra guía, tu también lo harás. 
+
+----
+
+Cursos: Curso taller vivencial
+
+----
+
+Acordiones2:
+
 - 
-  titulo: 'Curso-taller vivencial. '
+  titulo: 'Zhineng Qi Gong nivel 1: Peng Qi Guan Ding Fa'
   texto: |
-    **Zhineng Qi Gong nivel 1: Peng Qi Guan Ding Fa**
-    
     Peng Qi Guan Ding Fa consiste en movimientos físicos durante el cual dirigimos Qi con la mente, enseña a combinar nuestra mente con Qi universal, a través de los movimientos de apertura y cierre.
     
     Como resultado, el Qi interno sale y el Qi externo entra en acción. Este proceso de intercambio permite hacer circular el Qi de forma íntima y fácil entre el cuerpo humano y la naturaleza.
     
     Esto nos ayuda a tener un fuerte sentido de Qi de forma rápida y un cuerpo sensible, que aumentará significativamente el potencial de mejorar nuestra salud y de sanación, a través de esta práctica.
-    
-    PengQiGuanDingFa mueve el Qi con la mente.
-    
-    **Zhineng Qi Gong nivel 2: Xing Shen Zhuang**
-    
+- 
+  titulo: 'Zhineng Qi Gong nivel 2: Xing Shen Zhuang'
+  texto: |
     El 2o Nivel de ZhìNéng QìGōng “Xíng Shén Zhuāng” y su método complementario “Xùn Jīng Dǎo Yīn Fǎ” están diseñados para integrar la mente con el cuerpo y llevar el Qì profundamente al interior.
     
     Es recomendable aprenderlo cuando ya se ha profundizado en el Primer Nivel de ZhìNéng QìGōng” Pěng Qì Guàn Dǐng Fǎ” por un año por lo menos, aunque aprenderlo no quiere decir que será nuestro método principal, ya que es un proceso muy personal.
     
     También compartiremos Liàn Qì Sì Fǎ, métodos que ayudan a aumentar el flujo de Qì en el cuerpo y que mejoran los resultados en la practica del 2o Nivel. Y finalmente se enseñará Jiu Gong Shi San Men, considerada la parte avanzada de Pěng Qì Guàn Dǐng Fǎ.
-    
-    **Zhineng Qi Gong nivel 3: Wu Yuan Zhuang**
-    
+- 
+  titulo: 'Zhineng Qi Gong nivel 3: Wu Yuan Zhuang'
+  texto: |
     En el nivel tres se trabajan los órganos internos del corazón, los pulmones, el hígado, el bazo y los riñones. En este nivel al trabajar con los órganos, también se trabaja con las emociones relacionadas: alegría, el enojo, la ira, las preocupaciones o pensamientos recurrentes, la tristeza, el miedo.
     Practicando Wu Yuan Zhuang, el Qi de los cinco órganos y de las cinco emociones que están relacionadas, se fortalece.
     
     Si el Qi de los cinco órganos se intensifica, las funciones de estos se fortalecerán y las actividades relacionados entre sí, estarán bajo control voluntario; por lo tanto, vamos obtener un nivel superior tanto de salud física, como mental.
     
     Wu Yuan Zhuang mueve el Qi con sonidos.
+
+----
+
+Talleres: Retiros
+
+----
+
+Acordiones3:
+
 - 
-  titulo: Retiros
-  texto: |
-    **Zhineng Qi Gong: Yo soy el universo**
-    
-    Diseñado para practicantes que ya hayan tomado PengQiGuanDingFa y busquen profundizar mucho más.
-    
-    **Zhineng Qi Gong: Guerrero pacífico**
-    
-    Diseñado para practicantes que ya hayan tomado Xing Shen Zhuang y busquen profundizar mucho más.
-    
-    **Zhineng Qi Gong: Más allá del Ser y No-ser**
-    
-    Diseñado para practicantes que ya hayan tomado Wu Yuan Zhuang y busquen profundizar mucho más.
+  titulo: 'Zhineng Qi Gong: Yo soy el universo'
+  texto: >
+    Diseñado para practicantes que ya hayan
+    tomado PengQiGuanDingFa y busquen
+    profundizar mucho más.
+- 
+  titulo: 'Zhineng Qi Gong: Guerrero pacífico'
+  texto: >
+    Diseñado para practicantes que ya hayan
+    tomado Xing Shen Zhuang y busquen
+    profundizar mucho más.
+- 
+  titulo: 'Zhineng Qi Gong: Más allá del Ser y No-ser'
+  texto: >
+    Diseñado para practicantes que ya hayan
+    tomado Wu Yuan Zhuang y busquen
+    profundizar mucho más.
+
+----
+
+Imagen2:
+
+- incienso.jpg
 
 ----
 
@@ -215,6 +230,8 @@ Boton: APARTAR
 
 ----
 
-Imagen2:
+Fecha: 2020-07-11
 
-- incienso.jpg
+----
+
+Etiqueta: Zhineng Qi Gong

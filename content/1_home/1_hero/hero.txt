@@ -15,30 +15,126 @@ Fondo: FFEECC
 Slide:
 
 - 
-  imagen:
-    - cartel-2.jpg
   titulo: ZHINENG QI GONG NIVEL I
   subtitulo: DESPIERTA TU MAESTRO INTERIOR
-  label: cartel-1
-  enlace: '#'
+  label: carousel-1
+  enlace: /cursos/zhineng-qi-gong-online
   fecha: JULIO 21 Y 24
   lugar: Online
+  id: carousel-1
   color: ED542A
+  checked: checked
+  aria: ""
+  imagen: [ ]
   texto: ""
   url: /cursos/zhineng-qi-gong
+- 
+  titulo: Este es otro slider bro
+  subtitulo: con un subtitulo
+  label: ""
+  enlace: '#'
+  fecha: 12 de noviembre
+  lugar: Aqui
+  id: ""
+  color: 9CD7DA
+  checked: ""
+
+----
+
+Titulo1: Zhineng Qi Gong
+
+----
+
+Subtitulo1: Despierta a tu maestro interior
+
+----
+
+Enlace1: #
+
+----
+
+Fecha1: Julio 20 a 24
+
+----
+
+Lugar1: Online
+
+----
+
+Color1: ED542A
+
+----
+
+Titulo2: 
+
+----
+
+Subtitulo2: 
+
+----
+
+Enlace2: 
+
+----
+
+Fecha2: 
+
+----
+
+Lugar2: 
+
+----
+
+Color2: 
+
+----
+
+Titulo3: 
+
+----
+
+Subtitulo3: 
+
+----
+
+Enlace3: 
+
+----
+
+Fecha3: 
+
+----
+
+Lugar3: 
+
+----
+
+Color3: 
+
+----
+
+Titulo4: 
+
+----
+
+Subtitulo4: 
+
+----
+
+Enlace4: 
+
+----
+
+Fecha4: 
+
+----
+
+Lugar4: 
+
+----
+
+Color4: 
 
 ----
 
 Color: beige
-
-----
-
-Slide1: - cartel-vertical-07.jpg
-
-----
-
-Slide2: - cartel-vertical-06.jpg
-
-----
-
-Slide3: - cartel-vertical-05.jpg

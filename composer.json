@@ -25,7 +25,9 @@
         "k-community/markdown-field": "^1.0",
         "getkirby/editor": "^1.0",
         "timoetting/kirby-builder": "^2.0",
-        "sylvainjule/locator": "^1.0"
+        "sylvainjule/locator": "^1.0",
+        "cre8ivclick/formbuilder": "^1.1",
+        "nesbot/carbon": "^2.35"
     },
     "config": {
         "optimize-autoloader": true

@@ -1,0 +1,17 @@
+Title: Intro
+
+----
+
+Portada:
+
+- logo.png
+
+----
+
+Fondo: FBD9D9
+
+----
+
+Imagen:
+
+- coaching-1.jpg

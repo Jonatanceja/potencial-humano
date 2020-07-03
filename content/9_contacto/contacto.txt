@@ -1,0 +1,186 @@
+Title: Contacto
+
+----
+
+Portada:
+
+- logo.png
+
+----
+
+Fondo: FFEECC
+
+----
+
+Titulo: Ponte en contácto con nosotros
+
+----
+
+Texto: Rellena el formulario, nos pondremos en contacto contigo a la brevedad.
+
+----
+
+Color: FBB681
+
+----
+
+Imagen1:
+
+- nubes.jpg
+
+----
+
+Fb-form-settings: true
+
+----
+
+Fb-form-id: 
+
+----
+
+Fb-form-class: 
+
+----
+
+Fb-usediv: true
+
+----
+
+Fb-builder:
+
+- 
+  field_name: nombre
+  field_class: ""
+  req: 'false'
+  field_label: Nombre
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_text
+  _uid: fb_text_1592803626035_361
+- 
+  field_name: email
+  field_class: ""
+  req: 'false'
+  field_label: Email
+  placeholder: nombre@dominio.com
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_email
+  _uid: fb_email_1592803673706_726
+- 
+  field_name: telefono
+  field_class: ""
+  req: 'false'
+  field_label: Teléfono
+  placeholder: ' '
+  default: ""
+  min: null
+  max: null
+  pattern: ""
+  _key: fb_tel
+  _uid: fb_tel_1592803706440_1105
+- 
+  field_name: mensaje
+  field_class: ""
+  req: 'false'
+  field_label: Mensaje
+  placeholder: ""
+  default: ""
+  min: null
+  max: null
+  rows: null
+  _key: fb_textarea
+  _uid: fb_textarea_1592803793896_1477
+
+----
+
+Fb-submit-label: Enviar
+
+----
+
+Fb-cancel-label: 
+
+----
+
+Fb-formbtns-class: 
+
+----
+
+Fb-captcha: false
+
+----
+
+Fb-captcha-theme: false
+
+----
+
+Fb-captcha-secretkey: 
+
+----
+
+Fb-captcha-sitekey: 
+
+----
+
+Fb-is-ajax: false
+
+----
+
+Fb-msg-position: false
+
+----
+
+Fb-success-page: 
+
+----
+
+Fb-error-page: 
+
+----
+
+Fb-success-msg: 
+
+----
+
+Fb-error-msg: 
+
+----
+
+Fb-send-email: true
+
+----
+
+Fb-email-recipient: jonatanjonas@gmail.com
+
+----
+
+Fb-email-sender-type: false
+
+----
+
+Fb-email-sender: noreply@elpotencialhumano.com
+
+----
+
+Fb-email-sender-field: 
+
+----
+
+Fb-email-subject: Mensaje del sitio web El Potencial Humano
+
+----
+
+Fb-save-submissions: false
+
+----
+
+Fb-key-field: 
+
+----
+
+Fb-received-submissions: 

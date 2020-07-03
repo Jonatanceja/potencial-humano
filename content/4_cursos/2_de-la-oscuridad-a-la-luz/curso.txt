@@ -2,24 +2,37 @@ Title: De la Oscuridad a la Luz
 
 ----
 
+Tags: Curso
+
+----
+
 Portada:
 
 - logo-amarillo.png
 
 ----
 
-Color: beige
+Imagen:
+
+- la-presencia.jpg
+
+----
+
+Color: FBD9D9
 
 ----
 
 Slide:
 
 - 
-  imagen:
-    - la-presencia.jpg
+  imagen: [ ]
   texto: ""
   label: ""
   url: ""
+
+----
+
+Poster: 
 
 ----
 
@@ -29,15 +42,11 @@ Imagen1:
 
 ----
 
-Etiqueta: Cursos
+Descripcion: Deja de ser para comenzar a SER.
 
 ----
 
 Titulo: De la Oscuridad a la Luz
-
-----
-
-Fecha: 
 
 ----
 
@@ -55,7 +64,7 @@ A través de 4 niveles vamos explorando a profundidad como sanar nuestro cuerpo 
 
 ----
 
-Fondo: #FBD9D9
+Fondo: FBB681
 
 ----
 
@@ -63,10 +72,34 @@ Acordiones:
 
 ----
 
-Boton: 
+Cursos: 
+
+----
+
+Acordiones2: 
+
+----
+
+Talleres: 
+
+----
+
+Acordiones3: 
 
 ----
 
 Imagen2:
 
 - oscuridad.jpg
+
+----
+
+Boton: 
+
+----
+
+Fecha: 
+
+----
+
+Etiqueta: Cursos

@@ -37,5 +37,9 @@
     "vue": "^2.6.11",
     "vue-template-compiler": "^2.6.11"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@fullcalendar/core": "^5.0.0",
+    "@fullcalendar/daygrid": "^5.0.0",
+    "fullcalendar": "^5.0.0"
+  }
 }

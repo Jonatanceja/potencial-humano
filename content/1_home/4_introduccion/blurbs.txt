@@ -1,0 +1,40 @@
+Title: introduccion
+
+----
+
+Seccion:
+
+- 
+  imagen:
+    - group-8.jpg
+  titulo: >
+    Domina tu mente y crea la vida que
+    deseas
+  texto: >
+    Herramientas, técnicas y enseñanzas de
+    la más alta eficacia para desbloquear
+    tu máximo potencial.
+- 
+  imagen:
+    - group-7.jpg
+  titulo: Sana y equilibra tus emociones
+  texto: >
+    Siéntete confiado y en control de tu
+    estado interior. Reconcíliate con tu
+    autobiografía
+- 
+  imagen:
+    - slide-3.png
+  titulo: Reconoce tu poder interior
+  texto: |
+    Conócete en lo más profundo y cumple tu propósito en esta vida.
+    Todo es posible.
+- 
+  imagen:
+    - zhine.jpg
+  titulo: Lleva tu salud a su máximo nivel
+  texto: 'La práctica de salud más eficiente del mundo. Con un muy alto de efectividad, está documentado que en periodos de 24 días, el 95% de los pacientes tienen mejora sin importar el tipo de enfermedad.'
+
+----
+
+Fondo: E0E21B

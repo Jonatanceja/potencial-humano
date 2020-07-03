@@ -1,0 +1,119 @@
+Title: Zhineng Qi Gong Online
+
+----
+
+Tags: Evento
+
+----
+
+Portada:
+
+- logo-amarillo.png
+
+----
+
+Color: FBB681
+
+----
+
+Slide:
+
+- 
+  imagen:
+    - cartel-3.jpg
+  texto: ""
+  label: poster
+  url: ""
+
+----
+
+Poster:
+
+- zhineng-online-julio.jpeg
+
+----
+
+Imagen1: 
+
+----
+
+Descripcion: ONLINE JULIO 20 AL 24
+
+----
+
+Titulo: Zhineng Qi Gong
+
+----
+
+Texto2:
+
+DESPIERTA A TU MAESTRO INTERIOR
+
+La única herramienta de autosanación utilizada en el hospital más grande del mundo que no utiliza medicamentos, con un 95% de efectividad. 
+
+"Usamos la mente de manera cuidadosa y artesanal para dar forma a nuestra vida, para alcanzar nuestros objetivos"
+- Dr. Pang He Ming
+
+20 al 24 de Julio de 2020.
+Para los que escojan horario matutino:
+Nos conectaremos de Lunes a Viernes de 10:00 am a 13:00 pm
+Para los que escojan horario vespertino:
+Nos conectaremos de Lunes a Viernes de 18:30 a 21:30 pm
+Al finalizar el curso online, organizaremos una práctica grupal sin costo adicional para solucionar dudas y practicar profundo.
+
+El curso será realizado EN VIVO a través de una plataforma en línea.
+Los inscritos recibirán todos los enlaces, instrucciones y asesoría técnica en caso de necesitarla para poder conectarse con nosotros.
+
+**$ 2700** Incluye material del curso. 
+
+**Aprovecha 2x1 en este curso**
+**no aplica en otros descuentos*
+
+Sabemos por nuestra experiencia que ésta herramienta nos permite prevenir y erradicar cualquier tipo de enfermedad por contagio, por lo que hemos decidido solidarizarnos con la situación mundial. Todos nuestros cursos tienen un 2x1  para beneficio de más personas hasta el 1 de agosto de 2020.
+
+----
+
+Fondo: 9CD7DA
+
+----
+
+Acordiones: 
+
+----
+
+Cursos: 
+
+----
+
+Acordiones2: 
+
+----
+
+Talleres: 
+
+----
+
+Acordiones3: 
+
+----
+
+Imagen2: 
+
+----
+
+Boton:
+
+<form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="jonatanjonas@gmail.com">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="item_name" value="ZHINENG QI GONG CDMX JULIO 4 Y 5">
+<input type="hidden" name="amount" value="1000.00">
+<input type="hidden" name="currency_code" value="MXN">
+<input type="hidden" name="button_subtype" value="services">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="shipping" value="1000.00">
+<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynow_LG.gif:NonHostedGuest">
+<input type="image" src="/images/boton.png" border="0" name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
+<img alt="" border="0" src="https://www.sandbox.paypal.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+</form>

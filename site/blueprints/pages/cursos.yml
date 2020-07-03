@@ -23,37 +23,49 @@ fields:
     icon: wand
   slide: 
     type: structure
+    max: 6
     fields:
-      imagen:
-        type: files
-        icon: image
-        layout: list
-        max: 1
-      texto:
-        label: Texto
-        type: textarea
+      titulo:
+        label: Titulo
+        type: text
         icon: edit
+      subtitulo: 
+        label: Subtitulo
+        type: text
+        icon: text
       label:
         label: Etiqueta
         type: text  
-      url:
-        label: url
+      enlace:
+        label: Enlace
         type: text
-  imagen1: 
-    label: Imagen
-    type: files
-    icon: image
-    layout: list
-    max: 1
-  fondo:
-    label: Color de fondo
-    type: select
-    options:
-      FFEECC: Beige
-      9CD7DA: Azul
-      FBB681: Naranja
-      FBD9D9: Lila
-    icon: wand
+      fecha: 
+        label: Fecha
+        type: text
+        icon: calendar
+      lugar:
+        label: Lugar
+        type: text
+      id:
+        label: id
+        type: text
+      color:
+        label: Color de fondo
+        type: select
+        options:
+          FFFFFF: Blanco
+          FFEECC: Beige
+          9CD7DA: Azul
+          FBB681: Naranja
+          FBD9D9: Lila
+          E0E21B: Verde
+          ED542A: Naranja fuerte
+        icon: wand
+      checked:
+        label: ¿Inicial?
+        type: select
+        options:
+          checked: Si
 
 
 

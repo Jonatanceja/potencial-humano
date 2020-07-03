@@ -1,0 +1,17 @@
+Title: Intro
+
+----
+
+Portada:
+
+- logo-amarillo.png
+
+----
+
+Fondo: 9CD7DA
+
+----
+
+Imagen:
+
+- slide-2.jpg

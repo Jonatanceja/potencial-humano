@@ -2,24 +2,31 @@ Title: La presencia
 
 ----
 
+Tags: Curso
+
+----
+
 Portada:
 
 - logo.png
 
 ----
 
-Color: beige
+Imagen:
+
+- atrapasueno.jpg
 
 ----
 
-Slide:
+Color: 9CD7DA
 
-- 
-  imagen:
-    - atrapasueno.jpg
-  texto: ""
-  label: ""
-  url: ""
+----
+
+Slide: 
+
+----
+
+Poster: 
 
 ----
 
@@ -29,15 +36,11 @@ Imagen1:
 
 ----
 
-Etiqueta: Cursos
+Descripcion: El ahora es lo único que existe, ahí se desarrolla la verdadera conexión contigo mismo.
 
 ----
 
 Titulo: La Presencia
-
-----
-
-Fecha: 
 
 ----
 
@@ -49,7 +52,7 @@ Cada chakra representa una dimensión de nuestra vida y nuestro potencial de tra
 
 ----
 
-Fondo: #FBB681
+Fondo: FBD9D9
 
 ----
 
@@ -97,10 +100,34 @@ Acordiones:
 
 ----
 
-Boton: 
+Cursos: 
+
+----
+
+Acordiones2: 
+
+----
+
+Talleres: 
+
+----
+
+Acordiones3: 
 
 ----
 
 Imagen2:
 
 - prescencia-1.jpg
+
+----
+
+Boton: 
+
+----
+
+Fecha: 
+
+----
+
+Etiqueta: Cursos

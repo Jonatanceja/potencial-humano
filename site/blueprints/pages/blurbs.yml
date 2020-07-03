@@ -1,0 +1,30 @@
+title: 4 columnas
+
+fields:
+  seccion:
+    type: structure
+    label: Secciones
+    fields:
+      imagen:
+        label: imagen
+        type: files
+        icon: image
+        max: 1
+      titulo:
+        label: Título
+        type: text
+        icon: headline
+      texto:
+        label: Texto
+        type: textarea
+        icon: edit
+  fondo:
+    label: Color de fondo
+    type: select
+    options:
+      FFEECC: Beige
+      9CD7DA: Azul
+      FBB681: Naranja
+      FBD9D9: Lila
+      E0E21B: Verde
+    icon: wand

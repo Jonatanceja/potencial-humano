@@ -1,0 +1,14 @@
+Title: Podcast
+
+----
+
+Pods:
+
+- 
+  imagen:
+    - pod-1.jpg
+  titulo: 'Podcast '
+  subtitulo: Subtitulo del podcast
+  url: >
+    https://open.spotify.com/track/71yIq1YcohTp0t1auLoIxg?si=P4YQ6mgYSHCipYQ_wcrrFQ
+  capitulo: 1

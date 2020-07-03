@@ -2,13 +2,23 @@ Title: El Potencial Humano
 
 ----
 
+Tags: Curso
+
+----
+
 Portada:
 
 - logo.png
 
 ----
 
-Color: beige
+Imagen:
+
+- zhine.jpg
+
+----
+
+Color: FFEECC
 
 ----
 
@@ -23,21 +33,21 @@ Slide:
 
 ----
 
+Poster: 
+
+----
+
 Imagen1:
 
 - imagen-curso.jpg
 
 ----
 
-Etiqueta: El Potencial Humano
+Descripcion: Desarrolla la mejor versión de ti mismo
 
 ----
 
 Titulo: El Potencial Humano
-
-----
-
-Fecha: 2020-08-29
 
 ----
 
@@ -49,7 +59,7 @@ A través de estos talleres podremos desarrollar en nosotros nuestras capacidade
 
 ----
 
-Fondo: #FBB681
+Fondo: FBB681
 
 ----
 
@@ -94,10 +104,34 @@ Acordiones:
 
 ----
 
-Boton: 
+Cursos: 
+
+----
+
+Acordiones2: 
+
+----
+
+Talleres: 
+
+----
+
+Acordiones3: 
 
 ----
 
 Imagen2:
 
 - imagen-curso-2.jpg
+
+----
+
+Boton: 
+
+----
+
+Fecha: 2020-08-29
+
+----
+
+Etiqueta: Desarrolla la mejor versión de ti mismo

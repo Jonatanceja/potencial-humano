@@ -15,10 +15,18 @@ Color: FBB681
 Slide:
 
 - 
+  titulo: ZHINENG QI GONG NIVEL I
+  subtitulo: DESPIERTA TU MAESTRO INTERIOR
+  label: carousel-1
+  enlace: /cursos/zhineng-qi-gong-online
+  fecha: JULIO 21 Y 24
+  lugar: Online
+  id: carousel-1
+  color: ED542A
+  checked: checked
   imagen:
     - slide-2.jpg
   texto: ""
-  label: slide-1
   url: '#'
 
 ----
