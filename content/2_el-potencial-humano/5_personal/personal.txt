@@ -1,0 +1,52 @@
+Title: Personal
+
+----
+
+Acordiones:
+
+- 
+  titulo: Eliud Armand
+  texto: >
+    Es guía, meditador muy experimentado y
+    sanador, experto en liberación
+    emocional y manejo de energía.
+    Formación en Medicina tradicional
+    china, desarrollo humano y desarrollo de
+    consciencia. Cuenta con más de 19 años
+    experiencia en el campo del dominio de
+    la mente y el potencial humano. Se
+    formó como instructor internacional de
+    Zhineng Qi Gong en Qingcheng mountain,
+    China. Discípulo de Wei Qifeng, Xi
+    Xiaofeng, Tao Qingyu, Dong Xinjian, Wu
+    Shichao, Zhao Liancheng y Sun Yu Laoshi.
+    Raji ha explorado su enseñanza en su
+    máxima pureza, y profundizado en el
+    universo infinito del potencial de la
+    práctica y las capacidades que tiene
+    para despertar nuestra sabiduría para
+    desatar nuestro máximo potencial como
+    seres humanos.
+  imagen:
+    - >
+      whatsapp-image-2020-07-06-at-15.27.03.jpeg
+- 
+  titulo: Urzula Barba Hopfner
+  texto: >
+    Meditadora profunda, formación en
+    desarrollo de consciencia y maestra de
+    yoga, con una sensibilidad y creatividad
+    extraordinarias que la caracterizan, es
+    capaz de llevarnos hacia el espejo más
+    directo de nosotros mismos. Como
+    directora de cine y artista visual, su
+    trabajo ha inspirado la naturaleza del
+    ser humano a través de una sublime
+    alquimia emocional.
+  imagen:
+    - >
+      whatsapp-image-2020-07-06-at-15.22.04.jpeg
+
+----
+
+Fondo: FBD9D9

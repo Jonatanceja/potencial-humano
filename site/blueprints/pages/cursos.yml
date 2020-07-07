@@ -46,9 +46,6 @@ fields:
       lugar:
         label: Lugar
         type: text
-      id:
-        label: id
-        type: text
       color:
         label: Color de fondo
         type: select
@@ -61,11 +58,11 @@ fields:
           E0E21B: Verde
           ED542A: Naranja fuerte
         icon: wand
-      checked:
-        label: ¿Inicial?
-        type: select
-        options:
-          checked: Si
+      imagen:
+        label: Imagen
+        type: files
+        layout: list
+        max: 1
 
 
 

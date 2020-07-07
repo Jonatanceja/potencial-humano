@@ -1,0 +1,29 @@
+title: Personal
+icon: user
+
+fields:
+  acordiones:
+    type: structure
+    fields:
+      titulo:
+        label: Título
+        type: text
+        icon: headline
+      texto:
+        label: Texto
+        type: textarea
+        icon: edit
+      imagen: 
+        label: Imagen
+        type: files
+        max: 1
+  fondo:
+    label: Color de fondo
+    type: select
+    options:
+      FFEECC: Beige
+      9CD7DA: Azul
+      FBB681: Naranja
+      FBD9D9: Lila
+      E0E21B: Verde
+    icon: wand

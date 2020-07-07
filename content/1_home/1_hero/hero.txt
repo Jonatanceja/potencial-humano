@@ -21,22 +21,27 @@ Slide:
   enlace: /cursos/zhineng-qi-gong-online
   fecha: JULIO 21 Y 24
   lugar: Online
-  id: carousel-1
   color: ED542A
+  imagen:
+    - >
+      whatsapp-image-2020-07-06-at-15.18.57.jpeg
+  id: carousel-1
   checked: checked
   aria: ""
-  imagen: [ ]
   texto: ""
   url: /cursos/zhineng-qi-gong
 - 
-  titulo: Este es otro slider bro
-  subtitulo: con un subtitulo
+  titulo: ZHINENG QI GONG
+  subtitulo: DESPIERTA A TU MAESTRO INTERIOR
   label: ""
   enlace: '#'
-  fecha: 12 de noviembre
-  lugar: Aqui
-  id: ""
+  fecha: POR CONFIRMAR
+  lugar: Online
   color: 9CD7DA
+  imagen:
+    - >
+      whatsapp-image-2020-07-06-at-15.18.05.jpeg
+  id: ""
   checked: ""
 
 ----
